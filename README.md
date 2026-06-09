@@ -1,3 +1,8 @@
-# PruebaCoursera
-This is a test repository to coursera practice
-Im editin the README FILE . addin some more details about the project description
+Rearrage
+=======
+This modoule is used for rearranging names.
+Turns "LastName,FirstName" into "FirstName LastName".
+## Examples 
+*Calling 'rearrange_names("Turing,Alan") will return "Alan Turing"
+*Calling 'rearrange_names("Hopper,Grace M") will return "Grace M Hopper"
+
